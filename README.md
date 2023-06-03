@@ -1,19 +1,7 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">hi 👋, I'm Matheus.</h1></summary>
-  </ul>
-</div>
+**Welcome to my profile!**
 
 <!--Intro start-->
-
-- 🚀 I’m currently learning **Java.**
-
-- ☁️ I've keen interest in cloud computing. 
-
-- 📝 I am currently studying computer engineering.
+I'm currently studying Computer Engineering and I'm learning java. My interest is to focus on the back-end and I've keen interest in cloud computing.
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
@@ -43,13 +31,8 @@
 </p>        
 <!--- stats (end) -->
 
-
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">some technologies that I know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+
 <!--tech stack icons-->
 <p align="center">
  <ul align="center">
@@ -59,13 +42,6 @@
    </ul>
 </p>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">connect with me 🤝</h2></summary>
-  </ul>
-</div>
 
 <!--icons and links-->
 <p align="center">
