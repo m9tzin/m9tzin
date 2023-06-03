@@ -1,7 +1,7 @@
 **Welcome to my profile!**
 
 <!--Intro start-->
-I'm currently studying Computer Engineering and I'm learning java. My interest is to focus on the back-end and I've keen interest in cloud computing.
+I'm currently studying Computer Engineering and I'm learning Java. My interest is to focus on the back-end and I've keen interest in cloud computing.
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
