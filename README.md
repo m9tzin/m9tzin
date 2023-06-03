@@ -50,7 +50,9 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
+ <ul align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,eclipse,c,discord,github,html,java,js,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,discord,github,html,java,js,vscode,&perline=14" />
   </a>
+   </ul>
 </p>
