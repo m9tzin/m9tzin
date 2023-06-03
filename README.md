@@ -35,21 +35,21 @@ I'm currently studying Computer Engineering and I'm learning java. My interest i
 
 <!--tech stack icons-->
 <p align="center">
- <ul align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,discord,github,html,java,js,vscode,&perline=14" />
-  </a>
-   </ul>
+  <ul align="center">
+    <div style="display: inline_block"><br>
+      <img align="center" alt="m9tzin-arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+      <img align="center" alt="m9tzin-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+      <img align="center" alt="m9tzin-Cpp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+      <img align="center" alt="m9tzin-vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+      <img align="center" alt="m9tzin-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+      <img align="center" alt="m9tzin-js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+      <img align="center" alt="m9tzin-html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+      <img align="center" alt="m9tzin-css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  </div>
+  </ul>
 </p>
 
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/matheusmrno/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="30" width="30" /></a>
-<a href="https://twitter.com/m9tzin" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="30" width="30" /></a> 
-<a href="https://www.instagram.com/matheusmrno/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="30" width="30" /></a>
-
-</p>
 
 <!--- snake -->
 
