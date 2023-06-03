@@ -7,7 +7,7 @@
   </ul>
 </div>
 <!--Intro start-->
-- 🌱 I’m currently learning Java;
+- 🌱 I’m currently learning Java.
 
 - 💬 ask me about **C, Java and some IoT technologies.**
 
