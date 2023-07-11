@@ -30,11 +30,10 @@ I'm currently studying Computer Engineering and I'm learning Java.
 
 </p>        
 <!--- stats (end) -->
-
 <!--h1 without bottom border-->
-
 <!--tech stack icons-->
 <p align="center">
+  <b>unlocked</b> stacks
   <ul align="center">
     <div style="display: inline_block"><br>
       <img align="center" alt="m9tzin-arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
