@@ -1,7 +1,7 @@
 **Welcome to my profile!**
 
 <!--Intro start-->
-I'm currently studying Computer Engineering and I'm learning Java. My interest is to focus on the back-end.
+I'm currently studying Computer Engineering and I'm learning Java. 
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
