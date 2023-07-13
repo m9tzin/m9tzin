@@ -24,23 +24,6 @@ I'm currently studying Computer Engineering and I'm learning Java.
 </tr>
 </table>
 <!--- stats (end) -->
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</p>        
-<!--- stats (end) -->
-<!--h1 without bottom border-->
-<!--tech stack icons-->
-<p align="center">
-  <b>unlocked</b> stacks
-  <ul align="center">
-    <div style="display: inline_block"><br>
-      <img align="center" alt="m9tzin-arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-      <img align="center" alt="m9tzin-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-      <img align="center" alt="m9tzin-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-
-
           
   </div>
   </ul>
