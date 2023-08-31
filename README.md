@@ -29,6 +29,3 @@ I'm currently studying Computer Engineering and I'm learning Java.
 </p>
 
 
-
-<!--- snake -->
-
