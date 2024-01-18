@@ -1,7 +1,7 @@
 **welcome to my profile!**
 
 <!--Intro start-->
-I'm currently studying Computer Engineering and I'm learning Java. 
+I'm currently studying Computer Engineering.
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
