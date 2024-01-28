@@ -1,7 +1,7 @@
-**welcome to my profile!**
+**Welcome to my profile!**
 
 <!--Intro start-->
-I'm currently studying Computer Engineering.
+I am currently studying a Computer Engineering degree, but with a focus on software engineering.
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
