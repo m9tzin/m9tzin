@@ -6,6 +6,4 @@
   
   - Building blockchain solutions with Go & Hyperledger Fabric.
   
-  - Currently learning Golang, Java, C, C++, Next.js, and distributed systems.
-  
 </samp>
