@@ -1,4 +1,4 @@
 
-<samp>how much you wanna risk?</samp>
+<samp>seek God</samp>
 <br><br>
 <samp>https://matheusmrno.com</samp>
