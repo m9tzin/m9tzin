@@ -1,4 +1,3 @@
 
-<samp>seek God</samp>
-<br><br>
+<samp>jr swe</samp><br>
 <samp>https://matheusmrno.com</samp>
