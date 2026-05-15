@@ -1,3 +1,3 @@
 
-<samp>probably building something cool</samp><br>
+<samp>trying to be better</samp><br>
 <samp>https://matheusmrno.com</samp>
